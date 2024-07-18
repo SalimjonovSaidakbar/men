@@ -9,6 +9,8 @@ function App() {
       <Head/>
       <h1>Salom</h1>
       <h2>Alik</h2>
+      <p>Hello, World!</p>
+      <h4>ASSALOM</h4>
       <Footer/>
     </div>
   );
